@@ -1,5 +1,45 @@
 # Winbox changelog
 
+# 3.40
+
+- fix BTH code into default settings window;
+- fixed WinBox upgrade procedure (introduced in v3.39).
+
+# 3.39
+
+- added support for QR code field.
+
+## 3.38
+
+- fixed connecting to wireless network from QuickSet when there was no password specified;
+- fixed date and time value representation in the User Manager;
+- fixed skin file reading.
+
+## 3.37
+
+- do not update interface window layout all the time;
+- do not send value for empty multi-option field;
+- fixed VPLS "cisco-id" field with "&" prefix (introduced v3.36);
+- fixed ability to set options that can be hidden;
+- fixed floating point field's negative value in `-0.***` format.
+
+## 3.36
+
+- fix issue with non existing records still in winbox ros7;
+- fix Graphing and Quickset graphs;
+- fix neighbour table filter "all" storage if other was stored previously;
+- fix filter combobox saving/restoring;
+- fix wifiwave2 Frequency field;
+- show error if file upload not enough space;
+- fix some vpls fields with required "&" prefix;
+- fix sent default value for disabled wireless EAP Methods field;
+- do not set some firewall fields by not sending their values when hidden;
+- fix managed list category grouping when value is ip with port;
+- do not dump connection info to stdout when disconnected;
+- fix some field update if it was changed and disabled;
+- fix menu missing icon if some submenus are hidden in skin;
+- fix skin for Add button with dropdown.
+
 ## 3.35
 
 - fixed F4 and F7 keys in Terminal;

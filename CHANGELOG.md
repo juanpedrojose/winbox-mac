@@ -1,5 +1,30 @@
 # Changelog
 
+## 3.40.0
+
+- update winbox to [3.40](https://download.mikrotik.com/winbox/3.40/winbox64.exe).
+
+## 3.39.0
+
+- update winbox to [3.39](https://download.mikrotik.com/winbox/3.39/winbox64.exe);
+- update `Wine` to `devel 8.10`.
+
+## 3.38.0
+
+- update winbox to [3.38](https://download.mikrotik.com/winbox/3.38/winbox64.exe).
+
+## 3.37.0
+
+- update winbox to [3.37](https://download.mikrotik.com/winbox/3.37/winbox64.exe).
+
+## 3.36.1
+
+- update `Wine` to `stable 7.0`.
+
+## 3.36.0
+
+- update winbox to [3.36](https://download.mikrotik.com/winbox/3.36/winbox64.exe).
+
 ## 3.35.0
 
 - update winbox to [3.35](https://download.mikrotik.com/winbox/3.35/winbox64.exe).
